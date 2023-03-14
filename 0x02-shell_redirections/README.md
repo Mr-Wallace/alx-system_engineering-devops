@@ -1,3 +1,1 @@
-**SHELL REDIRECTIONS**
-
-2nd week into ALX SE - Understanding more about bash and how to redirect I/O
+A script that prints Hello world
